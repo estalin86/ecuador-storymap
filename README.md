@@ -1,0 +1,2 @@
+# ecuador-storymap
+gygapixel ecuador 
